@@ -37,7 +37,7 @@ elasticsearch.url: "http://10.151.40.133:9200"
 #kibana.index: ".kibana"
 
 # The default application to load.
-#kibana.defaultAppId: "home"
+kibana.defaultAppId: "dashboard/bed92c80-3fbe-11e8-9b5d-396bf2c375e0"
 
 # If your Elasticsearch is protected with basic authentication, these settings provide
 # the username and password that the Kibana server uses to perform maintenance on the Kibana
@@ -109,3 +109,4 @@ elasticsearch.url: "http://10.151.40.133:9200"
 # The default locale. This locale can be used in certain circumstances to substitute any missing
 # translations.
 #i18n.defaultLocale: "en"
+
